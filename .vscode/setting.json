@@ -1,0 +1,8 @@
+{
+    "filesExcluded": {
+        "build": true
+    },
+    "search.exclude": {
+        "build": true
+  }
+}
